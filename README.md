@@ -32,14 +32,6 @@ A step by step series of examples that tell you how to get a development environ
 2. Install the prerequisites
 3. Run the Jupyter notebook
 
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system.
-
 ## Built With
 
 * [PyTorch](https://pytorch.org/) - The deep learning framework used
