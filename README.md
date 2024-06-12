@@ -1,4 +1,4 @@
-# Grammar Correction with T5 and Optuna
+# Grammar Correction with T5 and Optuna (In progress)
 
 This project uses the T5 (Text-to-Text Transfer Transformer) model from the Hugging Face Transformers library and Optuna for hyperparameter tuning to correct grammatical errors in English sentences.
 
